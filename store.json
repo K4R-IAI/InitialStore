@@ -1,0 +1,14 @@
+{
+  "storeName": "Refills Lab",
+  "storeNumber": "ABC123",
+  "addressCountry": "DE",
+  "addressState": "Land Bremen",
+  "addressCity": "Bremen",
+  "addressPostcode": "28359",
+  "addressStreet": "Am Fallturm",
+  "addressStreetNumber": "1",
+  "addressAdditional": "",
+  "longitude": 188.773772,
+  "latitude": 53.091221,
+  "cadPlanId": "CAD123x"
+}
